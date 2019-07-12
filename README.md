@@ -9,14 +9,15 @@ Time series analysis has been around for centuries helping us to solve from astr
 
 Structure of the workshop goes like this
 
-Introduction to Time series analysis
-Time Series Exploratory Data Analysis and Data manipulation with pandas
-Forecast Time series data with some classical method (AR, MA, ARMA, ARIMA, GARCH, E-GARCH)
-Introduction to Deep Learning and Time series forecasting using MLP, RNN, LSTM
-Financial Time Series data
-Boosting Techniques
+* Introduction to Time series analysis
+* Time Series Exploratory Data Analysis and Data manipulation with pandas
+* Forecast Time series data with some classical method (AR, MA, ARMA, ARIMA, GARCH, E-GARCH)
+* Introduction to Deep Learning and Time series forecasting using MLP, RNN, LSTM
+* Financial Time Series data
+* Boosting Techniques
 
 ## Libraries Used:
+> install libraries using pip install -r requirements.txt 
 
 * Jupyter Notebook
 * pandas
@@ -26,4 +27,3 @@ Boosting Techniques
 * prophet
 * XGBoost
 
-> install requirements using pip install -r requirements.txt 
