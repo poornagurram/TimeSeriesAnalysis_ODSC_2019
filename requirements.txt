@@ -1,0 +1,7 @@
+jupyter
+pandas
+matplotlib
+statsmodels
+keras
+prophet
+xgboost
