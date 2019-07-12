@@ -1,6 +1,6 @@
 # ODSC 2019
 
-# Proposal
+## Proposal
 
 # Time Series Analysis in Python Workshop
 “Time is precious so is Time Series Analysis”
@@ -18,10 +18,10 @@ Boosting Techniques
 
 ## Libraries Used:
 
-Jupyter Notebook
-pandas
-matplotlib
-Keras 
-statsmodels
-prophet
-XGBoost
+* Jupyter Notebook
+* pandas
+* matplotlib
+* Keras 
+* statsmodels
+* prophet
+* XGBoost
