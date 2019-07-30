@@ -1,4 +1,4 @@
-[![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/open?id=14_HGUVKE0NvpO_9kCw_8WXFPygeo3x9M)
+[![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/poornagurram/TimeSeriesAnalysis_ODSC_2019/)
 
 # ODSC 2019
 
@@ -14,9 +14,9 @@ Structure of the workshop goes like this
 * Introduction to Time series analysis
 * Time Series Exploratory Data Analysis and Data manipulation with pandas
 * Forecast Time series data with some classical method (AR, MA, ARMA, ARIMA, GARCH, E-GARCH)
-* Introduction to Deep Learning and Time series forecasting using MLP, RNN, LSTM
-* Financial Time Series data
+* Introduction to Deep Learning and Time series forecasting using MLP and LSTM
 * Boosting Techniques
+* Financial Time Series data
 
 ## Libraries Used:
 > install libraries using pip install -r requirements.txt 
