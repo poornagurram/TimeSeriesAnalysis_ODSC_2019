@@ -3,5 +3,6 @@ pandas
 matplotlib
 statsmodels
 keras
-prophet
+sklearn
+seaborn
 xgboost
