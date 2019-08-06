@@ -27,6 +27,7 @@ Time series analysis has been around for centuries helping us to solve from astr
 * statsmodels
 * sklearn
 * seaborn
+* arch
 
 
 ## Outline/Structure of the Workshop
