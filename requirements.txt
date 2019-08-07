@@ -6,3 +6,4 @@ keras
 sklearn
 seaborn
 xgboost
+arch
