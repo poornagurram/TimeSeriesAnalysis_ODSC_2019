@@ -22,13 +22,14 @@ Time series analysis has been around for centuries helping us to solve from astr
 > install libraries using pip install -r requirements.txt 
 
 * Keras (with Tensorflow backend)
+* jupyter
 * matplotlib
 * pandas
 * statsmodels
 * sklearn
 * seaborn
 * arch
-
+* xgboost
 
 ## Outline/Structure of the Workshop
 
