@@ -49,7 +49,7 @@ Time series analysis has been around for centuries helping us to solve from astr
 * Introduction to Deep Neural Networks
 
 Credits :
-Immensely thankful to the great workshop by ![Alieen](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython)
+Immensely thankful to the great workshop by [Alieen](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython)
 
-Amazing blogs on Time Series by ![Jason Brownlee](https://machinelearningmastery.com/)
+Amazing blogs on Time Series by [Jason Brownlee](https://machinelearningmastery.com/)
 
