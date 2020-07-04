@@ -48,8 +48,14 @@ Time series analysis has been around for centuries helping us to solve from astr
 * Basics of Pandas
 * Introduction to Deep Neural Networks
 
-Credits :
-Immensely thankful to the great workshop by [Alieen](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython)
+## Credits :
 
-Amazing blogs on Time Series by [Jason Brownlee](https://machinelearningmastery.com/)
+* Immensely thankful to the great workshop by [Alieen](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython)
+* Amazing blogs on Time Series by [Jason Brownlee](https://machinelearningmastery.com/)
 
+## Tasks :
+* Non-Linear Time Series
+* Dataset Curation
+* Other Examples 
+* Optimize pandas tutorail
+* Improve LSTM 
